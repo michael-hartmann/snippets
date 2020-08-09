@@ -8,4 +8,4 @@ len = 0
 for x in primes:
     len += 1
     if len == 10001:
-        print x
+        print(x)

@@ -5,4 +5,4 @@ for x in range(1,1001):
     sum += x**x
 
 s = str(sum)
-print s[-10:]
+print(s[-10:])

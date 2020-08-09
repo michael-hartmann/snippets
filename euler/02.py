@@ -14,4 +14,4 @@ while True:
 
     fib = fib[1], fib[0]+fib[1]
 
-print sum
+print(sum)
